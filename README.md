@@ -10,4 +10,4 @@ player-tracking-analysis: Big Data Bowl 2021 player tracking data to analyze pla
 line-combo-analysis: MoneyPuck data to analyze current 2025-2026 playoff leaders top lines [March 16th 2026 Playoff Odds]
 
 #### Pythagorean Expectation Projects
-
+pythagorean-exp-01: MoneyPuck data to then follow [Stapled To The Bench's](https://www.stapledtothebench.com/wp-content/uploads/2024/12/2024-12-Hockey-Pythagoras-Estimate.pdf) Hockey Pythagoras Estimate Method.
