@@ -5,6 +5,7 @@ hockey-xg-model: MoneyPuck Shot data used to create a xG model, then compared wi
 
 #### Tracking Projects
 player-tracking-analysis: Big Data Bowl 2021 player tracking data to analyze player movements and gain skills in working with time series data
+
 player-tracking-analysis-02: Big Data Bowl 2026 player tracking data to again analyze player movements and puck possession
 
 #### Lines Specific Analysis
